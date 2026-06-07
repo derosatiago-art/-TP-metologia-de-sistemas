@@ -1,5 +1,19 @@
-Un archivo donde vas a ir anotando los datos del repositorio y el comando que usaste para sacarlos.
+Markdown
+# Comandos Básicos de Git
 
-git branch -a (Muestra una lista de todas las ramas (tanto locales como remotas). Simplemente cuéntenlas y anoten el número.)
+En este archivo agrupamos los comandos esenciales para iniciar y registrar cambios en un repositorio local.
 
-git log --stat ( git log --stat )
+### `git init`
+Es el comando que da vida a un repositorio. Al ejecutarlo en una carpeta, Git empieza a rastrear todos los archivos dentro de ella, creando una carpeta oculta `.git` donde guarda todo el historial.
+
+### `git status`
+Funciona como un escáner. Nos muestra el estado actual de nuestros archivos: cuáles fueron modificados, cuáles están listos para ser guardados (en el *staging area*) y cuáles todavía no están siendo rastreados por Git.
+
+### `git add`
+Con este comando seleccionamos los cambios que queremos incluir en nuestro próximo guardado. Podemos agregar un archivo específico (`git add nombre_archivo`) o todos los archivos modificados a la vez (`git add .`). Pasa los archivos al área de preparación (*staging*).
+
+### `git commit -m "mensaje"`
+Es el equivalente a "guardar partida". Toma todos los archivos que preparamos con `git add` y los guarda en el historial del repositorio con un mensaje descriptivo. Para este trabajo, usamos la convención de *Conventional Commits* (ejemplo: `feat: agregar comandos basicos`).
+
+### `git log`
+Nos permite ver el historial completo de los commits que se hicieron en el repositorio. Muestra qui
