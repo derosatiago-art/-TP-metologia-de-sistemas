@@ -1,0 +1,1 @@
+Un archivo donde vas a ir anotando los datos del repositorio y el comando que usaste para sacarlos.
