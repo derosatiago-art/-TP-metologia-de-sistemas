@@ -1,0 +1,1 @@
+Creá varios archivos para explicar los comandos (por ejemplo, comandos-basicos.md o manejo-de-ramas.md). Acordate de redactarlos con tus propias palabras. Podés agrupar los que tengan funcionalidades similares
