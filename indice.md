@@ -10,5 +10,3 @@ El repositorio fue creado como objetivo principal es demostrar de manera prácti
 2. [Manejo de Ramas y Repositorios Remotos](./manejo-remoto-y-ramas.md)
 3. [Estadísticas del Repositorio](./estadisticas.md)
 4. [Documentación de uso de IA](./IA.md)
-
-holaaa
