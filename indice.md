@@ -1,8 +1,8 @@
 
 # Trabajo Práctico: Git y GitHub - Metodología de Sistemas I
-```markdown 
-## Introducción
-El repositorio fue creado como objetivo principal es demostrar de manera práctica el dominio de Git y GitHub con lo aprendido en la materia de metologia de sistemas I. En el proyecto se muestran los comandos mas importantes que se enseñaron durante la cursada y se muestran las estadísticas de la paerticipacion del trabajo y flujo de trabajo.
+
+##Introducción
+El repositorio fue creado como objetivo principal es demostrar de manera práctica el dominio de Git y GitHub con lo aprendido en la materia de metologia de sistemas I. En el proyecto se muestran los comandos mas importantes que se enseñaron durante la cursada y se muestran las estadísticas de la paerticipacion del trabajo y flujo de trabajo (no se puede utilizar el markdown ya uqe si lo pongo los enlaces no funcionan).
 
 ## Índice de Contenidos
 
