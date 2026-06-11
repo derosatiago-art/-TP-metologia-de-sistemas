@@ -17,8 +17,8 @@
   * *Cantidad de archivos involucrados:* `[1 Archivo]`
   * *Comando usado para encontrarlo:* `git log --stat` y `git show 7062b12d8745f900dacd8a79fb2ad24466c2a92c`
   * *Captura del diff correspondiente:* ![alt text](diff.png) * **Captura de un conflicto previo a su resolución:**
-  * *Hash del commit asociado:* `[hacerlo cuando tengas un conflicto]`
-  * *Captura del conflicto:* ![Captura del conflicto](./img/conflicto.png) ```
+  * *Hash del commit asociado:* 
+  * *Captura del conflicto:* ![alt text](image.png)
 
 ---
 
