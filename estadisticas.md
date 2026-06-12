@@ -1,24 +1,23 @@
 
 # Estadísticas del Repositorio
 
-* **Integrante con mayor cantidad de commits:** [derosatiago-art] uso ([11] commits).
+* **Integrante con mayor cantidad de commits:** [derosatiago-art] realizo ([15] commits).
   * *Comando usado:* `git shortlog -s -n`
 
 * **Cantidad total de merges realizados:** [5] merges.
   * *Comando usado:* `git rev-list --merges --count HEAD`
 
-* **Cantidad de conflictos producidos:** [COMPLETAR NÚMERO] conflictos. *(Nota: Contabilizados manualmente a través de los Pull Requests en GitHub).*
+* **Cantidad de conflictos producidos:** [1] conflictos. 
 
-* **Cantidad de ramas existentes en el repositorio:** [4] ramas.
-  * *Comando usado:* `git branch -a`
+* **Cantidad de ramas existentes en el repositorio:** [6] ramas.
+  * *Comando usado:* `git branch -a `
 
 * **Commit con la mayor cantidad de archivos modificados:**
-  * *Hash del commit:* `[7062b12d8745f900dacd8a79fb2ad24466c2a92c]`
+  * *Hash del commit:* `[5dbe405]`
   * *Cantidad de archivos involucrados:* `[1 Archivo]`
-  * *Comando usado para encontrarlo:* `git log --stat` y `git show 7062b12d8745f900dacd8a79fb2ad24466c2a92c`
-  * *Captura del diff correspondiente:* ![alt text](diff.png) * **Captura de un conflicto previo a su resolución:**
-  * *Hash del commit asociado:* 
-  * *Captura del conflicto:* ![alt text](image.png)
+  * *Comando usado para encontrarlo:* `git log --stat --oneline`
+  * *Captura del conflicto y diff:* ![Captura del conflicto](conflicto.png) ```
+  * *resolucion del conflicto:*El choque de versiones en el archivo `indice.md` se solucionó desde la interfaz de Visual Studio Code seleccionando el cambio correcto. Luego, se guardó el archivo y se ejecutaron los comandos `git add indice.md` y `git commit` en la terminal para finalizar la fusión.
 
 ---
 
