@@ -18,7 +18,10 @@
   * *Comando usado para encontrarlo:* `git log --stat --oneline`
   * *Captura del conflicto y diff:* ![Captura del conflicto](conflicto.png) ```
   * *resolucion del conflicto:*El choque de versiones en el archivo `indice.md` se solucionó desde la interfaz de Visual Studio Code seleccionando el cambio correcto. Luego, se guardó el archivo y se ejecutaron los comandos `git add indice.md` y `git commit` en la terminal para finalizar la fusión.
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 ---
 
 ### 5. Archivo: `IA.md`
